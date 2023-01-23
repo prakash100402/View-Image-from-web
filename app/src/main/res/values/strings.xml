@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Download Web Content</string>
+    <string name="download_image">Download Image</string>
+    <string name="todo">TODO</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="textview">TextView</string>
+</resources>
